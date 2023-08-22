@@ -1,0 +1,14 @@
+h1, h2 {
+    font-family: Verdana, Tahoma, sans-serif;
+    color: blueviolet;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+p, li {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}

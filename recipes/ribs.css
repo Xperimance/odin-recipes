@@ -1,0 +1,21 @@
+h1, h2 {
+    font-family: Tahoma, sans-serif;
+    color: darkred;
+    font-weight: 900;
+}
+
+h3 {
+    font-family: Tahoma, sans-serif;
+    color: rgb(26, 88, 88);
+    font-weight: 900;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+p, li {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 19px;
+}

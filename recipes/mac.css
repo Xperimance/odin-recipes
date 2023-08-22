@@ -1,0 +1,10 @@
+h1, h2 {
+    font-family: Verdana, Tahoma, sans-serif;
+    color: rgb(136, 95, 45);
+    font-weight: 800;
+}
+
+p, li {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+}
